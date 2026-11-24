@@ -443,7 +443,7 @@ a{
 
 @media screen and (max-width: 500px){
     #main{
-        transform: scale(0.45);
+        transform: scale(0.40);
         margin-top: -200px;
         margin-left: -330px;
         height: 800px;
