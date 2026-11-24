@@ -443,7 +443,7 @@ a{
 
 @media screen and (max-width: 500px){
     #main{
-        transform: scale(0.50);
+        transform: scale(0.45);
         margin-top: -200px;
         margin-left: -310px;
         height: 800px;
@@ -453,7 +453,7 @@ a{
     
 #m{
     margin-left: 348px;
-    height: 615px;
+    height: 730px;
 }
 #mh{
     margin-left: 348px;
